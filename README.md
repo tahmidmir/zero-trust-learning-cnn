@@ -22,10 +22,10 @@ Install the required dependencies:
 - Seaborn
 - Scikit-Learn
 - TensorFlow / PyTorch
-- 
+
 ### Run the Notebook   
 ```bash
- `zero-trust-learning-cnn.ipynb` 
+ `jupyter notebook zero-trust-learning-cnn.ipynb` 
 ```   
 
 ## **📊 Results & Analysis**  
