@@ -19,9 +19,9 @@ Install the required dependencies:
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
-- Scikit-Learn
-- TensorFlow / PyTorch
+- Logging
+- Hashlib
+- TensorFlow
 
 ### Run the Notebook   
 ```bash
